@@ -23,13 +23,15 @@ Self-taught programmer specializing in front-end development and program trading
   </a>
 </p>
 
+<!--
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=GtskinRJoe&show_icons=true&theme=algolia)
+!-->
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=GtskinRJoe&theme=onedark&row=2&column=3)
 
 ### Latest Trading Projects
 - 📊 Custom TradingView Indicators
-- 📉 MultiCharts Strategy Implementation
+- 📈 MultiCharts Strategy 
 - 💹 Trading Performance Analytics Dashboard
 - 📈 XQ Custom Screeners
 
