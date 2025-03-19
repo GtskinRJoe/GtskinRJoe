@@ -1,10 +1,6 @@
 ## Hi there 👋
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=figma,react,vue,ts,nextjs,js,tailwind,html,css,py,ps,postman,supabase" />
-  </a>
-</p>
+
 
 ### About Me
 Self-taught programmer specializing in front-end development and program trading for Taiwan stock markets. I develop trading strategies using MultiCharts, XQ, and TradingView, focusing on creating data visualizations and practical trading tools.
@@ -18,8 +14,14 @@ Self-taught programmer specializing in front-end development and program trading
 ### My Tech Stack
 - **Trading Platforms**: MultiCharts, XQ, TradingView
 - **Front-End**: React, Vue, TypeScript, Next.js, Tailwind CSS
-- **Design**: Figma, Photoshop
-- **Backend**: Supabase
+- **Design**: Figma, miro, Photoshop
+- **Backend**: Supabase, SQLite
+
+<p align="start">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=figma,react,vue,ts,nextjs,js,tailwind,html,css,py,ps,postman,supabase,sqlite" />
+  </a>
+</p>
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=GtskinRJoe&show_icons=true&theme=algolia)
 
