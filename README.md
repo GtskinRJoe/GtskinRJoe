@@ -2,6 +2,7 @@
 
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=GtskinRJoe&show_icons=true&theme=ambient_gradient)
+![GitHub streak](https://streak-stats.demolab.com/?user=GtskinRJoe&theme=dark)
 
 <!--
 **GtskinRJoe/GtskinRJoe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
