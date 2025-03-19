@@ -36,11 +36,13 @@ Self-taught programmer specializing in front-end development and program trading
 - 💹 Trading Performance Analytics Dashboard
 - 📈 XQ Custom Screeners
 
+<!--
 ### Currently Learning
 - Advanced trading strategy development
 - More efficient backtesting methods
 - Real-time market data integration
 - Full-stack development for financial applications
+!-->
 
 <a href="https://data-card-for-spotify.herokuapp.com/card?user_id=31422w2iglgi32zbo2okkk7nonnm">
   <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=31422w2iglgi32zbo2okkk7nonnm" alt="Data Card for Spotify">
