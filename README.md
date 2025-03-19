@@ -7,17 +7,17 @@
 </p>
 
 ### About Me
-Self-taught programmer specializing in front-end development and algorithmic trading for Taiwan stock markets. I'm passionate about creating data visualizations and building efficient trading tools that transform complex financial data into actionable insights.
+Self-taught programmer specializing in front-end development and program trading for Taiwan stock markets. I develop trading strategies using MultiCharts, XQ, and TradingView, focusing on creating data visualizations and practical trading tools.
 
 ### What I'm Working On
-- 📊 Trading visualization tools for Taiwan stock market
+- 📊 Custom indicators for TradingView and MultiCharts
 - 💻 Front-end applications for market analysis
-- 🤖 Automated trading systems
-- 📈 Data-driven dashboards for financial metrics
+- 📈 Trading strategies for Taiwan stock market
+- 🖥️ Dashboard tools for trading performance monitoring
 
 ### My Tech Stack
+- **Trading Platforms**: MultiCharts, XQ, TradingView
 - **Front-End**: React, Vue, TypeScript, Next.js, Tailwind CSS
-- **Data Analysis**: Python, Data Visualization Libraries
 - **Design**: Figma, Photoshop
 - **Backend**: Supabase
 
@@ -25,16 +25,16 @@ Self-taught programmer specializing in front-end development and algorithmic tra
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=GtskinRJoe&theme=onedark&row=2&column=3)
 
-### Latest Market Analysis Projects
-- 📊 Taiwan Stock Market Dashboard
-- 📉 Technical Indicator Visualization Tool
-- 📈 Stock Pattern Recognition System
-- 💹 Trading Performance Analytics
+### Latest Trading Projects
+- 📊 Custom TradingView Indicators
+- 📉 MultiCharts Strategy Implementation
+- 💹 Trading Performance Analytics Dashboard
+- 📈 XQ Custom Screeners
 
 ### Currently Learning
-- Advanced trading algorithms
-- Market prediction models
-- Real-time data processing
+- Advanced trading strategy development
+- More efficient backtesting methods
+- Real-time market data integration
 - Full-stack development for financial applications
 
 <a href="https://data-card-for-spotify.herokuapp.com/card?user_id=31422w2iglgi32zbo2okkk7nonnm">
@@ -42,4 +42,3 @@ Self-taught programmer specializing in front-end development and algorithmic tra
 </a>
 
 <img src='https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg' />
-
